@@ -1,0 +1,10 @@
+16-03-2023 19:02:02	This log contains information about the import schema operation into project 'Database1' on computer 'VAN-SERVER' by user 'promi'.
+16-03-2023 19:02:02	Deserializing model
+16-03-2023 19:02:02	Resolving model
+16-03-2023 19:02:03	Visiting imported model for types
+16-03-2023 19:02:03	Scanning project for duplicate elements
+16-03-2023 19:02:03	Finished duplicate element processing
+16-03-2023 19:02:03	Processing extra files
+16-03-2023 19:02:03	Finished importing Data-tier Application file.
+16-03-2023 19:02:03	A summary of the import was saved to the following location: C:\Users\promi\OneDrive\Documents\Sql_CICD\Database1\Database1\Import Schema Logs\Database1_20230316013202.log
+16-03-2023 19:02:03	Click Finish to continue...
